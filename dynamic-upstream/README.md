@@ -47,7 +47,7 @@ Nginx 第三方模块 [`nginx-upsync-module`](https://github.com/weibocom/nginx-
 
 ![](https://chengzw258.oss-cn-beijing.aliyuncs.com/Article/20210710183225.png)
 
-本示例 github 地址：https://github.com/cr7258/nginx-lab/dynamic-upstream
+本示例 github 地址：https://github.com/cr7258/nginx-lab/tree/master/dynamic-upstream
 
 目前还有其他产品支持动态配置，不仅仅是 upstream，还包括了其他方面的配置。例如 Nginx 的商业版本 Nginx Plus，和云原生结合得比较好的 Envoy、Kong、Traefik 等等。大家有兴趣可以自行了解。
 
