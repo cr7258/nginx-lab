@@ -1,0 +1,20 @@
+{
+  "datacenter": "dev",
+  "data_dir": "/data/consul/node1",
+  "log_file": "/data/consul/node1/consul.log",
+  "log_level": "INFO",
+  "server": true,
+  "node_name": "node1",
+  "ui": true,
+  "bind_addr": "192.168.1.134",
+  "client_addr": "192.168.1.134",
+  "advertise_addr": "192.168.1.134",
+  "bootstrap_expect": 3,
+  "ports":{
+    "http": 8510,
+    "dns": 8610,
+    "server": 8310,
+    "serf_lan": 8311,
+    "serf_wan": 8312
+    }
+}
